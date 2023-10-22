@@ -1,2 +1,2 @@
 # Projects
-This is where all my projects are stored.
+This is the solution to the famous titanic survival prediction problem from kaggle.
